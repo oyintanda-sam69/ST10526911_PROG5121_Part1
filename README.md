@@ -23,3 +23,6 @@ I used Password Validation because it is the security guard, it rejects weak pas
 
 ### Cellphone Validation
 I used Cellphone Validation because it insures the number follows a proper structure by providing the correct Country code and it prevents communication and sercurity.
+
+### Strings
+I needed to use Strings to make sure everything runs.
