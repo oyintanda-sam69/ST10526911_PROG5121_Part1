@@ -27,4 +27,5 @@ I used Cellphone Validation because it insures the number follows a proper struc
 ### Strings
 I needed to use Strings to make sure everything runs.
 
-### 
+### @TEST
+I used tests in public void to avoid errors
