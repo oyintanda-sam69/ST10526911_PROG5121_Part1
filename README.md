@@ -9,7 +9,7 @@
 
 ## Project Information
 This Part (1) is about the logging in of an App which includes
-Classes
+### Classes
 login.java, main.java and logintest.java.
 
 ---
@@ -26,3 +26,5 @@ I used Cellphone Validation because it insures the number follows a proper struc
 
 ### Strings
 I needed to use Strings to make sure everything runs.
+
+### 
