@@ -8,7 +8,9 @@
 ---
 
 ## Project Information
-This Part (1) is about the logging in of an App which includes login.java, main.java and logintest.java.
+This Part (1) is about the logging in of an App which includes
+Classes
+login.java, main.java and logintest.java.
 
 ---
 
